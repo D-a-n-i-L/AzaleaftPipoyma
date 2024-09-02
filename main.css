@@ -19,7 +19,7 @@ body{
     height: 100vh;
     overflow-x: hidden;
     /*background-color: rgba(0, 0, 0, 0.49);*/
-    background-image: url(./main/Rin.jpg);
+    background-image: url(./public/Rin.jpg);
     color: white;
 }
 
